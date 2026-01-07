@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\GlideCloud Internship Stuff\FastAPI\Projects\Fast-api-mongodb-1\myenv"
+VIRTUAL_ENV="C:\GlideCloud Internship Stuff\FastAPI\Projects\06-01-2026-Fast-api-mongodb-1\myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -10,3 +10,9 @@ class ItemUpdate(BaseModel):
     name: Optional[str] = None
     description: Optional[str] = None
     price: Optional[float] = None
+
+class ItemResponse(BaseModel):
+    id: str
+    name: str
+    description: Optional[str] 
+    price: float
